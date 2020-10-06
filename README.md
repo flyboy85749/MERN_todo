@@ -1,1 +1,1 @@
-# MERN_todo
+# ME_N_todo is a full stack to do list, using MongoDB, Express, and Node. Also uses EJS for templating.
